@@ -1,2 +1,0 @@
-# Calcolatrice
-calcolatrice
